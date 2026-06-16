@@ -13,11 +13,11 @@ The project transforms raw ferry transaction data into actionable operational in
 
 # Live Dashboard
 
-🔗 **Live App:**
-https://toronto-island-ferry-tickets-analysis.streamlit.app/
+🔗 Live App: https://toronto-island-ferry-tickets-analysis.streamlit.app/
 
 # Citation
 Afridi, M. A. (2026). Real-Time Ferry Ticket Sales & Redemption Analytics for Toronto Island Park.
+📄 Research Report: https://doi.org/10.5281/zenodo.20716651
 
 # Problem → Solution → Impact
 
