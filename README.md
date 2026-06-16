@@ -149,22 +149,23 @@ The project incorporates:
 
 This enables data-driven decisions for ferry scheduling, capacity planning, resource allocation, and passenger flow management.
 
+# Project Structure
+
 Toronto-Island-Ferry-Ticket-Analytics/
 │
-├── app.py                     # Streamlit dashboard application
-├── requirements.txt           # Project dependencies
+├── app.py                          # Streamlit dashboard application
+├── requirements.txt                # Project dependencies
+├── README.md                       # Project documentation
 │
 ├── data/
-│   └── ferry_ticket_data.csv  # Raw dataset
+│   └── ferry_ticket_data.csv       # Raw dataset
 │
 ├── notebooks/
 │   └── Toronto_Island_Ferry_Tickets.ipynb
 │
-├── screenshots/               # Dashboard screenshots
+├── screenshots/                    # Dashboard screenshots
 │
-├── assets/                    # Images, logos, icons
-│
-└── README.md                  # Project documentation
+└── assets/                         # Images, logos, icons
 
 # 🎓 Key Learnings
 
