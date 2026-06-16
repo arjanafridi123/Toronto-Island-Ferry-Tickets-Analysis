@@ -206,8 +206,8 @@ Feedback, suggestions, and improvement ideas are always welcome.
 
 If you'd like to discuss data analytics, business intelligence, dashboard development, operational analytics, or data visualization, feel free to connect with me on LinkedIn.
 
-🔗 **Let's Connect on LinkedIn:**  
-https://www.linkedin.com/in/pratham-ds/
+LinkedIn: https://www.linkedin.com/in/md-arjan-afridi-7288b7233
+Email: arjanafridi123@gmail.com
 
 ⭐ If you found this project interesting, consider exploring the dashboard, reviewing the analysis, and sharing your feedback.
 
