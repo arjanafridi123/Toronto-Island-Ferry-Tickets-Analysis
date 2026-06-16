@@ -85,23 +85,42 @@ Developed an analytics dashboard and exploratory data analysis framework to exam
 ## 📌 Key KPIs
 
 | KPI | Description |
-|-----|-------------|
-| Total Ticket Sales | Total ferry tickets sold during the analysis period |
-| Total Ticket Redemptions | Total ferry tickets redeemed by passengers |
-| Net Passenger Movement | Sales − Redemptions |
-| Peak Demand Hour | Hour with the highest passenger demand |
-| Seasonal Demand Index | Relative demand across seasons |
-| Off-Season Utilization Index | Winter demand compared to overall demand |
-| Rolling Demand Trend | Smoothed demand pattern using moving averages |
+|------|-------------|
+| Tickets Sold / Hour | Average number of ferry tickets sold per hour |
+| Tickets Redeemed / Hour | Average number of ferry tickets redeemed per hour |
+| Net Passenger Movement | Total Sales Count − Total Redemption Count |
+| Peak Demand Hour | Hour with the highest ticket sales volume |
+| Off-Season Utilization Index | Winter demand as a percentage of overall average demand |
+| Highest Demand Season | Season generating the highest passenger demand |
+| Peak vs Off-Peak Demand | Passenger activity comparison across operating periods |
 
-## 🛠️ Tech Stack
+---
+
+# 🛠️ Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
 | Programming Language | Python |
 | Dashboard Framework | Streamlit |
 | Data Processing | Pandas, NumPy |
-| Data Visualization | Plotly, Matplotlib |
-| Time-Series Analysis | Rolling Averages |
-| Development Environment | Jupyter Notebook |
+| Data Visualization | Plotly Express |
+| Data Caching | Streamlit Cache (`@st.cache_data`) |
+| User Interface | Streamlit Components & Custom HTML |
+| Analytics | Time-Series, Seasonal & Demand Analysis |
 | Deployment | Streamlit Community Cloud |
+
+
+# ✨ Dashboard Features
+
+| Feature | Description |
+|----------|-------------|
+| Role-Based Views | Management, Operations, and Policy Planner perspectives |
+| Interactive Filters | Date, Hour, and Season filtering |
+| KPI Dashboard | Real-time operational metrics |
+| Sales Trends | Daily sales and redemption analysis |
+| Operations Analytics | Peak vs Off-Peak demand monitoring |
+| Passenger Flow Analysis | Net passenger movement tracking |
+| Monthly Trends | Month-wise demand patterns |
+| Seasonal Analysis | Demand comparison across seasons |
+| Data Explorer | Downloadable filtered dataset |
+| Business Recommendations | Automated operational insights |
