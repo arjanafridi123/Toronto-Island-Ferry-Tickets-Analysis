@@ -151,6 +151,9 @@ This enables data-driven decisions for ferry scheduling, capacity planning, reso
 
 # Project Structure
 
+## Project Structure
+
+```text
 Toronto-Island-Ferry-Ticket-Analytics/
 │
 ├── app.py                          # Streamlit dashboard application
@@ -166,6 +169,7 @@ Toronto-Island-Ferry-Ticket-Analytics/
 ├── screenshots/                    # Dashboard screenshots
 │
 └── assets/                         # Images, logos, icons
+```
 
 # 🎓 Key Learnings
 
@@ -186,7 +190,7 @@ The project also strengthened my understanding of:
 * Data visualization best practices.
 * Dashboard design and deployment using Streamlit Community Cloud.
 
-## 🚀 Future Improvements
+# 🚀 Future Improvements
 
 Potential future enhancements include:
 
@@ -201,7 +205,7 @@ Potential future enhancements include:
 
 These enhancements would further improve decision-making, operational efficiency, and long-term planning for ferry services.
 
-## 🤝 Feedback & Connect
+# 🤝 Feedback & Connect
 
 Feedback, suggestions, and improvement ideas are always welcome.
 
