@@ -171,33 +171,30 @@ Toronto-Island-Ferry-Ticket-Analytics/
 
 Through this project, I gained hands-on experience in:
 
-* Exploratory Data Analysis (EDA) and data storytelling.
-* Time-series analysis using ticket sales and redemption data.
-* Building interactive dashboards with Streamlit and Plotly.
-* Designing user-centric analytics solutions for different stakeholder groups.
-* Creating KPI-driven dashboards for operational decision-making.
-* Transforming raw transportation data into actionable business insights.
+- Exploratory Data Analysis (EDA) and data storytelling.
+- Time-series analysis using ticket sales and redemption data.
+- Building interactive dashboards with Streamlit and Plotly.
+- Designing user-centric analytics solutions for different stakeholder groups.
+- Creating KPI-driven dashboards for operational decision-making.
+- Transforming raw transportation data into actionable business insights.
 
 The project also strengthened my understanding of:
 
-* Passenger demand forecasting and trend analysis.
-* Seasonal and temporal pattern identification.
-* Operational performance monitoring through KPIs.
-* Data visualization best practices.
-* Dashboard design and deployment using Streamlit Community Cloud.
+- Passenger demand forecasting and trend analysis.
+- Seasonal and temporal pattern identification.
+- Operational performance monitoring through KPIs.
+- Data visualization best practices.
+- Dashboard design and deployment using Streamlit Community Cloud.
 
 # 🚀 Future Improvements
 
 Potential future enhancements include:
 
-* Passenger demand forecasting using machine learning models.
-* Real-time ticket sales and redemption data integration.
-* Weather-based demand prediction and impact analysis.
-* Advanced passenger flow and capacity optimization models.
-* Automated report generation and dashboard exports.
-* Interactive geospatial mapping of ferry routes and travel patterns.
-* AI-driven recommendations for scheduling, staffing, and resource allocation.
-* Anomaly detection to identify unusual demand spikes and operational disruptions.
+- Demand forecasting using machine learning.
+- Real-time ticket sales integration.
+- Weather-based demand analysis.
+- Automated report generation.
+- Route and capacity optimization recommendations.
 
 These enhancements would further improve decision-making, operational efficiency, and long-term planning for ferry services.
 
