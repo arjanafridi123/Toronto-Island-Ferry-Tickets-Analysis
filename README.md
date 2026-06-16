@@ -81,3 +81,27 @@ Developed an analytics dashboard and exploratory data analysis framework to exam
 - Resource allocation insights
 - Service scheduling optimization
 - Data-driven operational decision support
+
+## 📌 Key KPIs
+
+| KPI | Description |
+|-----|-------------|
+| Total Ticket Sales | Total ferry tickets sold during the analysis period |
+| Total Ticket Redemptions | Total ferry tickets redeemed by passengers |
+| Net Passenger Movement | Sales − Redemptions |
+| Peak Demand Hour | Hour with the highest passenger demand |
+| Seasonal Demand Index | Relative demand across seasons |
+| Off-Season Utilization Index | Winter demand compared to overall demand |
+| Rolling Demand Trend | Smoothed demand pattern using moving averages |
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| Programming Language | Python |
+| Dashboard Framework | Streamlit |
+| Data Processing | Pandas, NumPy |
+| Data Visualization | Plotly, Matplotlib |
+| Time-Series Analysis | Rolling Averages |
+| Development Environment | Jupyter Notebook |
+| Deployment | Streamlit Community Cloud |
