@@ -13,6 +13,8 @@ The project transforms raw ferry transaction data into actionable operational in
 
 # Live Dashboard
 
+🔗 **Live App:**
+https://toronto-island-ferry-tickets-analysis.streamlit.app/
 
 # Problem → Solution → Impact
 
