@@ -163,12 +163,8 @@ Toronto-Island-Ferry-Ticket-Analytics/
 ├── data/
 │   └── ferry_ticket_data.csv       # Raw dataset
 │
-├── notebooks/
-│   └── Toronto_Island_Ferry_Tickets.ipynb
-│
-├── screenshots/                    # Dashboard screenshots
-│
-└── assets/                         # Images, logos, icons
+└── notebooks/
+    └── Toronto_Island_Ferry_Tickets.ipynb
 ```
 
 # 🎓 Key Learnings
