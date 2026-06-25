@@ -157,8 +157,6 @@ This enables data-driven decisions for ferry scheduling, capacity planning, reso
 
 # Project Structure
 
-## Project Structure
-
 ```text
 Toronto-Island-Ferry-Ticket-Analytics/
 │
